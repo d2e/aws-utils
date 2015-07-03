@@ -23,7 +23,7 @@ public class BackupAction {
 
     public static void main(String[] arr) throws Exception {
 
-      arr = new String []{"vol-06532a4a","7", "us-east-1", "us-west-1", "profile tcad"};
+      
         final ParamModel params = new ParamModel();
         if (arr.length > 0) {
             params.setVolId(arr[0]);
