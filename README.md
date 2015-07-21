@@ -12,4 +12,4 @@ autodesk aws related utility
 command example
 
 
-``` mvn   exec:java -Dexec.mainClass="com.autodesk.aws.BackupAction" -Dexec.args="vol-f3bd30bf 7 us-east-1 us-west-1 'profile tcad'" ```
+``` mvn   exec:java -Dexec.mainClass="com.autodesk.aws.BackupAction" -Dexec.args="vol-fxdaf 7 us-east-1 us-west-1 'profile profileName'" ```
