@@ -1,7 +1,6 @@
-autodesk-cloud
+Aws Utils
 ==============
-
-autodesk aws related utility
+Amazon  aws related utility
 
  * Supported functionality are as follows:-
  * Create snapshot from volume
