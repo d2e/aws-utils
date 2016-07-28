@@ -101,7 +101,7 @@ public class BackupAction {
         log.info("waiting for all task to complete .. ");
 
         log.info("Task finished at " + new Date());
-        Thread.sleep(3000); //sleep for 3 second
+        Thread.sleep(1000 * 30); //sleep for 30 second
         log.info("shutdown thread..");
         scheduledExecutorService.shutdown();
         ;
