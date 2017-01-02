@@ -2,7 +2,7 @@ Aws Utils
 ==============
 Amazon  aws related utility
 
- * Supported functionality are as follows:-
+  Supported functionality are as follows:-
  * Create snapshot from volume
  * Monitor snapshot status
  * Copy Snapshot from 1 region to another
